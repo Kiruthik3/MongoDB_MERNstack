@@ -1,4 +1,4 @@
-# MongoDB_MERNstack\
+# MongoDB_MERNstack
 
 
 Flight Booking App Project Overview
